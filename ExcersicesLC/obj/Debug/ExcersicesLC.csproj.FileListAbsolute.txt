@@ -1,0 +1,7 @@
+C:\Users\LUISC\source\repos\ExcersicesLC\ExcersicesLC\bin\Debug\ExcersicesLC.exe.config
+C:\Users\LUISC\source\repos\ExcersicesLC\ExcersicesLC\bin\Debug\ExcersicesLC.exe
+C:\Users\LUISC\source\repos\ExcersicesLC\ExcersicesLC\bin\Debug\ExcersicesLC.pdb
+C:\Users\LUISC\source\repos\ExcersicesLC\ExcersicesLC\obj\Debug\ExcersicesLC.csprojResolveAssemblyReference.cache
+C:\Users\LUISC\source\repos\ExcersicesLC\ExcersicesLC\obj\Debug\ExcersicesLC.csproj.CoreCompileInputs.cache
+C:\Users\LUISC\source\repos\ExcersicesLC\ExcersicesLC\obj\Debug\ExcersicesLC.exe
+C:\Users\LUISC\source\repos\ExcersicesLC\ExcersicesLC\obj\Debug\ExcersicesLC.pdb
